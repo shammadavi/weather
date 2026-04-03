@@ -5,7 +5,7 @@ import streamlit as st
 # -----------------------------
 # CONFIG
 # -----------------------------
-API_KEY = "b0dc4e85939232a6a588f29fc89f55df"   # 🔴 Replace with your OpenWeatherMap API key
+API_KEY = "b0dc4e85939232a6a588f29fc89f55df"  
 BASE_URL = "https://api.openweathermap.org/data/2.5/forecast"
 
 # -----------------------------
